@@ -1,3 +1,3 @@
 # RabbitMQ
 
-Использую RabbitMQ
+Изучаю RabbitMQ
