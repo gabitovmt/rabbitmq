@@ -9,7 +9,6 @@ import org.springframework.scheduling.annotation.Scheduled;
 @RequiredArgsConstructor
 @Slf4j
 public class Tut1Sender {
-
     private final RabbitTemplate template;
     private final Queue queue;
 
